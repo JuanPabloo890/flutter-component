@@ -6,7 +6,7 @@ A new Flutter project.
 
 ## Demostracion de la aplicacion en funcionamiento.
 
-![image](https://github.com/JuanPabloo890/flutter-component/assets/119060037/1bcc5263-4e92-4f9b-a751-2f8bdf4c4034)
+![image](https://github.com/JuanPabloo890/flutter-component/assets/119060037/1a71b2bf-d3e4-42e9-afd3-0d2d5bc8c477)
 
 ![image](https://github.com/JuanPabloo890/flutter-component/assets/119060037/b0be9ea8-ac8d-4adb-966c-b992b1c114ea)
 
